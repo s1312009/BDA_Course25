@@ -1,0 +1,11 @@
+Transaction
+"Jam,Bread,Bat,Books,Pen"
+"Ball,Bat,Butter"
+"Ball,Bread,Broccoli"
+"Bat,Books,Butter,Jam"
+"Bat,Books,Pen,Broccoli,Jam,Ball"
+"Pen,Butter,Bat"
+"Bread,Ball"
+"Butter,Pen,Ball"
+"Butter,Pen,Broccoli,Bat,Ball"
+"Pen,Ball,Books,Bread,Butter,Bat"
